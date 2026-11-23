@@ -1,0 +1,6 @@
+# собранный exe — публикуется в Releases
+MelodyOverlay.exe
+
+# личные настройки и лог, создаются рядом с exe
+MelodyOverlay.ini
+MelodyOverlay.log
